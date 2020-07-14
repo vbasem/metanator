@@ -1,0 +1,15 @@
+
+kind: Component
+metadata:
+  name: metanator
+  description: |
+    meta data for projects
+  labels:
+    system: test
+    lifecycle: development
+    example.com/service-discovery-name: metanator
+  annotations:
+    actions: metanator
+    pitId: 123124124
+spec:
+  type: service
